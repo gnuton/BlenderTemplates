@@ -1,5 +1,5 @@
 # BlenderTemplates
-A personal collection of Blender templates
+A personal collection of Blender snippets
 
 ## UI
 ### UIList
